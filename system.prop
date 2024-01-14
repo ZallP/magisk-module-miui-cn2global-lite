@@ -1,5 +1,5 @@
-ro.product.locale=en-US
+ro.product.locale=en-GB
 
 # Change to MIUI Global (but less features)
-ro.miui.region=IN
+ro.miui.region=ID
 ro.rom.zone=1
