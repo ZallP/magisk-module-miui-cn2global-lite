@@ -21,7 +21,7 @@ For installing flag patch module safely, you need to do:
 1. Enable MIUI optimization and reboot
 2. Install lite module and reboot
 3. Disable MIUI optimization
-4. Two "Package Installer" app will be available so disable one of them (I recommend non-Xiaomi logo one)
+4. Two "Package Installer" app will be available so disable one MiuiPackageInstaller
 5. Reboot
 -------------
 
